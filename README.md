@@ -1,4 +1,12 @@
-<h2 align="left">Olá! Bem-vindos ao meu GitHub. Meu nome é Wender Milan, sou natural de Americana, interior de São Paulo, porém, moro na capital desde janeiro de 2013. Sou biomédico microbiologista por formação e atuei por 15 anos na área de análises. Em 2023, iniciei minha transição de carreira para a área de dados, que se tornou uma grande paixão, e desde então tenho me dedicado diariamente ao aprendizado de data science e big data. Atualmente, estou no último ano de Ciência de Dados e trabalho como Data Engineer Jr. na NNT DATA Brasil.</h2>
+Olá, seja bem-vindo (a)! ☺
+
+🎯 Sou um profissional de dados em transição consolidada para as áreas de Engenharia, Análise e Ciência de Dados, e atualmente atuo como Junior Data Engineer na NTT Brasil.
+
+💻 Trabalho com Python, SQL, PySpark, Databricks e Azure, desenvolvendo pipelines escaláveis baseados na arquitetura Medallion (Bronze, Silver, Gold). Tenho experiência desde a ingestão de dados via APIs até a modelagem, transformação e visualização com Power BI.
+
+🚀 Sou apaixonado por tecnologia, dados e por resolver problemas de forma prática e eficiente. Gosto de unir análise técnica com visão estratégica para gerar valor ao negócio.
+
+📚 Estou em constante aprendizado, sempre em busca de evoluir como profissional, contribuir com meu time e crescer dentro da cultura data-driven.
 
 ###
 
